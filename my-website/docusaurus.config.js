@@ -76,32 +76,49 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: 'Community',
+            title: 'Estándares',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'ONIX',
+                href: 'https://web.dilve.es/onix/onix-libros/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Thema',
+                href: 'https://web.dilve.es/thema-2/thema/',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Calidad de metadatos',
+                href: 'https://web.dilve.es/calidad-de-metadatos-2/calidad-de-metadatos/',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Consulta',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Códigos ONIX',
+                href: 'https://ns.editeur.org/onix/es',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Códigos Thema',
+                href: 'https://ns.editeur.org/thema/es',
+              },
+              {
+                label: 'EDItEUR',
+                href: 'https://www.editeur.org/',
+              },
+            ],
+          },
+          {
+            title: 'Más',
+            items: [
+              {
+                label: 'DILVE',
+                href: 'https://dilve.es',
+              },
+              {
+                label: 'Agencia del ISBN',
+                href: 'https://agenciaisbn.es/web/index.php',
               },
             ],
           },
