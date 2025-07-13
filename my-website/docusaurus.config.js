@@ -4,10 +4,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  title: 'Ayuda DILVE',
+  tagline: 'Los metadatos molan',
+  //url: 'https://your-docusaurus-test-site.com',
+  //baseUrl: '/',
+  url: 'https://www.kinesinet.com',
+  baseUrl: '/dlvhelp_git/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -41,7 +43,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Ayuda DILVE',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
